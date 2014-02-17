@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Basic Project</string>
+    <string name="action_settings">Settings</string>
+    <string name="go_to_uri">Go!</string>
+    <string name="text_uri">http://www.sjsu.edu</string>
+    <string name="button_stock">Find!</string>
+    <string name="stock_input">Enter a stock name</string>
+    <string name="stock_output">Stock value will be displayed here</string>
+    <string name="stock_api">http://finance.google.com/finance/info?client=ig&q=NASDAQ:</string>
+
+</resources>
